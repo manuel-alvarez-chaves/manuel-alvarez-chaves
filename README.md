@@ -1,1 +1,1 @@
-
+My name is Manuel Álvarez and this is my GitHub profile. This serves mainly as a backup for the projects that I have worked in while studying to be a civil engineer, my master's programme in Flood risk management (FRM) and as a professional civil engineer working primarily in water resources.

@@ -1,1 +1,1 @@
-My name is Manuel Álvarez and this is my GitHub profile.
+My name is Manuel and this is my GitHub profile.
